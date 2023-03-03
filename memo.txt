@@ -1,0 +1,36 @@
+date
+登録された時間　　　
+
+regesitrations
+androidが接続された時間。
+
+放送された者たち、
+name:舗装名
+開始時間、
+ip,
+
+id
+
+
+受信者、
+視聴開始時間、
+
+
+ip
+
+streams
+
+ログインブラウザーで
+
+
+publishers log された場合
+ログイン概念が無かったら、
+
+
+配信が始まったら、streamingの
+
+watchers
+ログイン時間。
+
+api status
+
